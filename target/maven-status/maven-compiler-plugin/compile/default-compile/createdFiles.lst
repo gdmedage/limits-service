@@ -1,0 +1,4 @@
+com\org\limitsservice\LimitsConfigurationController.class
+com\org\limitsservice\bean\LimitConfiguration.class
+com\org\limitsservice\Configuration.class
+com\org\limitsservice\LimitsServiceApplication.class
